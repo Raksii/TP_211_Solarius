@@ -1,12 +1,11 @@
 #!/usr/bin/python3
-#  -- coding: utf-8 --
+#  -*- coding: utf-8 -*-
 
-# Date: Sat 12 jun 2021 16:45:00 CEST
-# Author: Emilio Profili
-# Last updated by: Emilio Profili
-# Last updated date: Sun 13 jun 2021 17:20:00 CEST
+# Date: Mon 14 may 2021 17:46:52 CEST
+# Author: Hugo Lux
+# Last updated by: Hugo Lux
+# Last updated date: Wen 16 may 2021 15:38:42 CEST
 # Description: datalogger
-# TP SOLARIUS
 
 #include <Servo.h>
 
